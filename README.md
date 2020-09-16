@@ -1,2 +1,4 @@
 # BUY-TRUFFLE-SELL
-Contact list
+------------------
+Contact list (name,country,phone,price)
+------------------
